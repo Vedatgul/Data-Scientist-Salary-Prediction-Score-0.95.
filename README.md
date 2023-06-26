@@ -1,4 +1,4 @@
-# Data-Scientist-Salary-Prediction-Score-0.95.
+#  Data-Scientist-Salary-Prediction-Score-0.95.
 
 
 ![image](https://github.com/Vedatgul/Data-Scientist-Salary-Prediction-Score-0.95./assets/124357663/ef2f6bd3-2035-4642-9ba9-01886436dbd1)
